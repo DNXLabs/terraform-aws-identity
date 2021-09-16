@@ -70,6 +70,7 @@ This modules creates the following resources:
 | Name | Description |
 |------|-------------|
 | iam\_role\_admin\_arn | AdministratorAccess IAM role ARN |
+| iam\_role\_billing\_arn | BillingAccess IAM role ARN |
 | iam\_role\_data\_scientist\_arn | DataScientist IAM role ARN |
 | iam\_role\_database\_admin\_arn | DatabaseAdministrator IAM role ARN |
 | iam\_role\_extra\_arns | n/a |
